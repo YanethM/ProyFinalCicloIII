@@ -1,0 +1,12 @@
+C:\ProysCicloIII\proyFinal\Shared\bin\Debug\net5.0\proyFinal.Shared.deps.json
+C:\ProysCicloIII\proyFinal\Shared\bin\Debug\net5.0\proyFinal.Shared.dll
+C:\ProysCicloIII\proyFinal\Shared\bin\Debug\net5.0\ref\proyFinal.Shared.dll
+C:\ProysCicloIII\proyFinal\Shared\bin\Debug\net5.0\proyFinal.Shared.pdb
+C:\ProysCicloIII\proyFinal\Shared\obj\Debug\net5.0\proyFinal.Shared.csproj.AssemblyReference.cache
+C:\ProysCicloIII\proyFinal\Shared\obj\Debug\net5.0\proyFinal.Shared.GeneratedMSBuildEditorConfig.editorconfig
+C:\ProysCicloIII\proyFinal\Shared\obj\Debug\net5.0\proyFinal.Shared.AssemblyInfoInputs.cache
+C:\ProysCicloIII\proyFinal\Shared\obj\Debug\net5.0\proyFinal.Shared.AssemblyInfo.cs
+C:\ProysCicloIII\proyFinal\Shared\obj\Debug\net5.0\proyFinal.Shared.csproj.CoreCompileInputs.cache
+C:\ProysCicloIII\proyFinal\Shared\obj\Debug\net5.0\proyFinal.Shared.dll
+C:\ProysCicloIII\proyFinal\Shared\obj\Debug\net5.0\ref\proyFinal.Shared.dll
+C:\ProysCicloIII\proyFinal\Shared\obj\Debug\net5.0\proyFinal.Shared.pdb

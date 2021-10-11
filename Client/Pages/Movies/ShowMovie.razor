@@ -1,0 +1,16 @@
+@page "/movie/{MovieId:int}"
+@page "/movie/{MovieId:int}/{MovieName}"
+@using proyFinal.Client.Pages.Components
+@inject IServiceMovie repositorio
+@inject IErrorMessage showMessage
+@inject NavigationManager navigationManager
+
+<h6>Ver pelicula</h6>
+
+
+@code {
+    @* Se muestra el id y el nombre de la pelicula en la ruta *@
+    [Parameter] public int MovieId { get; set; }
+    [Parameter] public string MovieName { get; set; }
+
+}
